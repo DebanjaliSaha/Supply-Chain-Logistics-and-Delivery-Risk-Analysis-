@@ -150,12 +150,12 @@ Rather than treating all shipping modes and regions equally, this analysis segme
 
 | Shipping Mode | Late Rate | Risk Tier |
 |---|---|---|
-| First Class | 100.0% | 🔴 Critical |
-| Second Class | 79.7% | 🔴 Critical |
-| Same Day | 47.8% | 🟢 Acceptable |
-| Standard Class | 39.8% | 🟢 Acceptable |
+| First Class | 100.0% | 🔴 High Risk |
+| Second Class | 79.7% | 🔴 High Risk |
+| Same Day | 47.8% | 🟢 Low Risk |
+| Standard Class | 39.8% | 🟢 Low Risk |
 
-**Segmentation logic:** Critical (≥70% late), Moderate (50–70%), Acceptable (<50%)
+**Segmentation logic:** Critical High Risk (≥70%), Medium Risk (50-70%), Low Risk (<50%)
 
 ### Region Risk Segmentation
 
