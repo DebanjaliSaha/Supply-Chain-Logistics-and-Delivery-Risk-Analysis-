@@ -135,9 +135,9 @@ This analysis peels back that surface to identify *where* delays are happening, 
 | Kurtosis | Delay Days: -0.29 ✅ \| Profit: 71.38 🚨 (extreme outlier concentration) |
 | Outlier Detection | 18,942 profit outliers (10.49%) via IQR method |
 | Correlation | Delay Days has near-zero correlation with all variables (max: -0.005) |
-| Mean vs Median | Profit mean understates true profitability by $9.55 due to extreme outliers |
+| Mean vs Median | Profit mean ($21.97) vs median ($31.52) — $9.55 difference, understating true profitability |
 
-**Correlation Matrix (key finding):** Delay Days shows near-zero correlation with Order Quantity (0.002), Discount (-0.0002), Sales (-0.004), and Profit (-0.005) — confirming delays are **not driven by any single measurable order characteristic** but by structural logistics failures.
+Correlation Matrix (key finding): Delay Days shows near-zero correlation with Order Quantity (0.002), Discount (-0.0002), Sales (-0.004), and Profit (-0.005) — confirming delays are not driven by any single measurable order characteristic but by structural logistics failures.
 
 ---
 
