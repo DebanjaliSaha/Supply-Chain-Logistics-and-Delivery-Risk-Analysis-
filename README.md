@@ -257,7 +257,8 @@ Business Insights & Recommendations
 *Delivery performance overview across 180,519 orders — KPI cards, Late vs On-Time distribution, regional failure rates, and shipping mode performance.*
 
 ### Risk Segmentation & Profit Impact 
-<img width="1265" height="698" alt="Screenshot (425)" src="https://github.com/user-attachments/assets/f2d5df31-1706-4e8a-897e-4fb5b403da20" />
+<img width="1284" height="715" alt="Screenshot (427)" src="https://github.com/user-attachments/assets/6caf3e2d-4cc5-409a-bc3f-0b0214efc3d7" />
+
 
 
 *Risk segmentation and profit impact analysis — delay severity by category and shipping mode, regional risk table, and profit comparison by delivery status.*
