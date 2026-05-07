@@ -252,12 +252,12 @@ Business Insights & Recommendations
 ## 📊 Power BI Dashboard
 
 ### Delivery Performance Overview
-<img <img width="1291" height="769" alt="Screenshot (424)" src="https://github.com/user-attachments/assets/05bcf7b1-0d40-44a8-85cf-22478ec9704f" />
+<img width="1291" height="769" alt="Screenshot (424)" src="https://github.com/user-attachments/assets/05bcf7b1-0d40-44a8-85cf-22478ec9704f" />
 
 *Delivery performance overview across 180,519 orders — KPI cards, Late vs On-Time distribution, regional failure rates, and shipping mode performance.*
 
 ### Risk Segmentation & Profit Impact 
-<img <img width="1265" height="698" alt="Screenshot (425)" src="https://github.com/user-attachments/assets/9d29aead-b2e2-4ce4-81b9-0af56b6cf25a" />
+<img width="1265" height="698" alt="Screenshot (425)" src="https://github.com/user-attachments/assets/9d29aead-b2e2-4ce4-81b9-0af56b6cf25a" />
 
 *Risk segmentation and profit impact analysis — delay severity by category and shipping mode, regional risk table, and profit comparison by delivery status.*
 
